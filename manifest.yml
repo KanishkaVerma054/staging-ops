@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: todo-app
-    image: kanishka054/todo-app:47798fb94c87b8f7cf1f3cf34ac242fe889b9baf
+    image: kanishka054/todo-app:e777f1e6a26cdc2144c68ded1368849d74b27b61
     ports:
     - containerPort: 80

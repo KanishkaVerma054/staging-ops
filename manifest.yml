@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: kanishka054/todo-app:47798fb94c87b8f7cf1f3cf34ac242fe889b9baf
+    image: kanishka054/todo-app:38bb8034f8180f2d2ea46f0ca451c6f5078451cb
     ports:
     - containerPort: 80
